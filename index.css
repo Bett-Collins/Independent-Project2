@@ -60,3 +60,7 @@ li {
   background-size: cover;
   height: 400px;
 }
+
+.service {
+  text-align: center;
+}
