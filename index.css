@@ -127,3 +127,17 @@ li {
   .section4{
     margin-top: 5%;
   }
+
+
+
+  .section5 {
+  background-image: url(images/image8\ \(2\).png);
+  background-size: cover;
+  color: white;
+  height: 300px;
+  width: 1280px;
+  text-align: center;
+  margin-top: 4%;
+  padding-top: 10%;
+
+  }
