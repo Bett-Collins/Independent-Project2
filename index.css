@@ -1,7 +1,7 @@
-
-body{
+body {
   background-color: #Eae9eb;
-  font-family: 'Roboto';font-size: 15px;
+  font-family: 'Roboto';
+  font-size: 15px;
 }
 
 
@@ -11,30 +11,31 @@ body{
   background-color: rgb(85, 85, 85, 0.6);
   height: 50px;
   margin-top: -1%;
-  }
+}
 
 .logo {
   display: flex;
   margin-left: 3%;
   padding: 10px;
-  
+
 }
 
-.logo h5{
-margin-top: 6px;
-margin-left: 10%;
+.logo h5 {
+  margin-top: 6px;
+  margin-left: 10%;
 
 }
 
 
 
 .list ul {
- 
+
   display: flex;
   list-style: none;
   margin-left: 85%;
   margin-top: -1%;
 }
+
 li {
   padding: 0px 27px;
   height: 40px;
@@ -46,7 +47,8 @@ li {
   margin-left: 5%;
   padding: 40px;
 }
-.premium h2 button{
+
+.premium h2 button {
   background-color: #F19201;
   border: none;
   margin-top: 5%;
@@ -55,8 +57,8 @@ li {
   color: white;
 
 }
-  
- .section1 {
+
+.section1 {
   background-image: url("images/image2.png");
   background-size: cover;
   height: 400px;
@@ -71,76 +73,81 @@ li {
   display: flex;
   margin-left: 21%;
   height: 200px;
-  }
-  
-  .one {
-    border: solid grey;
-    text-align: center;
-    margin: 1%;
-    background-color: white;
-    width: 230px;
-    }
-  
-  .BTN {
-    background-color: #F19201;
-    font-size: 30px;
-    color: white;
-    border-radius: 50% ;
-    margin-top: 7%;
-    border: none;
-    height: 40px;
-    width: 40px;
-  }
+}
 
-  .section3{
-    display: flex;
-    padding-top: 5%;
-  }
+.one {
+  border: solid grey;
+  text-align: center;
+  margin: 1%;
+  background-color: white;
+  width: 230px;
+}
 
-  #wood {
-    text-align: center;
-  }
+.BTN {
+  background-color: #F19201;
+  font-size: 30px;
+  color: white;
+  border-radius: 50%;
+  margin-top: 7%;
+  border: none;
+  height: 40px;
+  width: 40px;
+}
 
-  .Food {
-    border: solid grey;
-    display: flex;
-    margin: 3%;
-    margin-top: -2px;
-    padding: 2%;
-    background-color: white;
-   
-  }
-  #menu1 {
-    display: flex;
-    
-  }
-  #menu2 {
-    display: flex;
-  }
-  .Menu{
+.section3 {
+  display: flex;
+  padding-top: 5%;
+}
+
+#wood {
+  text-align: center;
+}
+
+.Food {
+  border: solid grey;
+  display: flex;
+  margin: 3%;
+  margin-top: -2px;
+  padding: 2%;
+  background-color: white;
+
+}
+
+#menu1 {
+  display: flex;
+
+}
+
+#menu2 {
+  display: flex;
+}
+
+.Menu {
   margin-left: 20%;
   padding-top: 60px;
-  }
-  .meal {
+}
+
+.meal {
   padding-left: 4%;
   margin-top: -8%;
-  }
+}
 
-  .Review{
-    padding-left: 2%;
-    text-align: center;
-    background-color: black;
-    color: white;
-    width: 655px;
-    padding-top: 2%;
-  }
-  .section4{
-    margin-top: 5%;
-  }
+.Review {
+  padding-left: 2%;
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 655px;
+  padding-top: 2%;
+}
+
+.section4 {
+  margin-top: 5%;
+}
 
 
 
-  .section5 {
+.section5 {
   background-image: url(images/image8\ \(2\).png);
   background-size: cover;
   color: white;
@@ -150,26 +157,25 @@ li {
   margin-top: 4%;
   padding-top: 10%;
 
-  }
+}
 
 
-  .section5 button{
-    background-color: transparent;
-    color: white;
-    border:solid white;
-    border-width: 1px;
-    width: 100px;
-    height: 25px;
-  
-  }
+.section5 button {
+  background-color: transparent;
+  color: white;
+  border: solid white;
+  border-width: 1px;
+  width: 100px;
+  height: 25px;
 
-  .hello{
-    text-align: center;
-    background-color: black;
-    color: white;
-   margin-top: -10px;
-   height: 50px;
-   padding-top: 10px;
-   font-style: italic;
-  }
-  
+}
+
+.hello {
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin-top: -10px;
+  height: 50px;
+  padding-top: 10px;
+  font-style: italic;
+}
