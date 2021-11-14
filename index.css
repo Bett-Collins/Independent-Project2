@@ -39,3 +39,24 @@ li {
   height: 40px;
   padding-top: 20px;
 }
+
+.premium {
+  color: white;
+  margin-left: 5%;
+  padding: 40px;
+}
+.premium h2 button{
+  background-color: #F19201;
+  border: none;
+  margin-top: 5%;
+  width: 90px;
+  height: 23px;
+  color: white;
+
+}
+  
+ .section1 {
+  background-image: url("images/image2.png");
+  background-size: cover;
+  height: 400px;
+}
