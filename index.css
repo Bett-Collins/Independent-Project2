@@ -64,3 +64,29 @@ li {
 .service {
   text-align: center;
 }
+
+
+#Order {
+  display: flex;
+  margin-left: 21%;
+  height: 200px;
+  }
+  
+  .one {
+    border: solid grey;
+    text-align: center;
+    margin: 1%;
+    background-color: white;
+    width: 230px;
+    }
+  
+  .BTN {
+    background-color: #F19201;
+    font-size: 30px;
+    color: white;
+    border-radius: 50% ;
+    margin-top: 7%;
+    border: none;
+    height: 40px;
+    width: 40px;
+  }
