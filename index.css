@@ -1,6 +1,7 @@
 
 body{
   background-color: #Eae9eb;
+  font-family: 'Roboto';font-size: 15px;
 }
 
 
@@ -20,7 +21,7 @@ body{
 }
 
 .logo h5{
-margin-top: -1px;
+margin-top: 6px;
 margin-left: 10%;
 
 }
@@ -32,7 +33,7 @@ margin-left: 10%;
   display: flex;
   list-style: none;
   margin-left: 85%;
-  margin-top: 1%;
+  margin-top: -1%;
 }
 li {
   padding: 0px 27px;
@@ -93,7 +94,7 @@ li {
 
   .section3{
     display: flex;
-    padding-top: 10%;
+    padding-top: 5%;
   }
 
   #wood {
@@ -149,6 +150,17 @@ li {
   margin-top: 4%;
   padding-top: 10%;
 
+  }
+
+
+  .section5 button{
+    background-color: transparent;
+    color: white;
+    border:solid white;
+    border-width: 1px;
+    width: 100px;
+    height: 25px;
+  
   }
 
   .hello{
