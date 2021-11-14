@@ -95,3 +95,7 @@ li {
     display: flex;
     padding-top: 10%;
   }
+
+  #wood {
+    text-align: center;
+  }
